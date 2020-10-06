@@ -178,6 +178,9 @@ Now, when you run your code it should output the values
 ```
 Each time the code calls the nextStation method, it adds 0.2 to the instance variable. Each time it calls the prevStation method it subtracts 0.2 from the instance variable. 
 
+### Are you getting weird numbers in your output?
+Watch this video: [https://www.youtube.com/watch?v=PZRI1IfStY0](https://www.youtube.com/watch?v=PZRI1IfStY0)
+
 ## Grading
 
 This lab will be automatically graded by comparing the output of the RadioTester.java file to the expected output. If your output matches the expected output, then you will receive credit for this lab.
