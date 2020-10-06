@@ -171,10 +171,10 @@ Now, when you run your code it should output the values
 ```
 0.0
 95.5
-95.7
-95.9
-96.1
-95.5
+96.9
+97.1     <-- if this is weird, see video below
+97.3     <-- if this is weird, see video below
+96.7
 ```
 Each time the code calls the nextStation method, it adds 0.2 to the instance variable. Each time it calls the prevStation method it subtracts 0.2 from the instance variable. 
 
