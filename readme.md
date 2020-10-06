@@ -118,18 +118,18 @@ To test this code you will have to uncomment some lines in the RadioTester.java 
 Look for the lines
 ```
 //r.changeStation(1.4);
-//System.out.println(r.getStation()); // should be 95.7
+//System.out.println(r.getStation()); // should be 96.9
 ```
 And remove the ```//``` from the beginning of them so they look like this:
 ```
 r.changeStation(1.4);
-System.out.println(r.getStation()); // should be 95.7
+System.out.println(r.getStation()); // should be 96.9
 ```
 Now, when you run your code it should output the values
 ```
 0.0
 95.5
-95.7
+96.9
 ```
 When the code calls the changeStation method, it changes the value of the instance variable by the amount specified by the argument.
 
